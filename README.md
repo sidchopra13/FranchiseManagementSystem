@@ -51,12 +51,16 @@ In this database make two tables<br>
 <img src="/screenshots/contact-us.png" width="800" />
 
 #### Company Register-Login
-<img src="/screenshots/company-register.png" width="400" height="243"/>
-<img src="/screenshots/company-login.png" width="400" height="243" /> 
+<p float="left">
+  <img src="/screenshots/company-register.png" width="400" height="233"/>
+  <img src="/screenshots/company-login.png" width="400" height="233" /> 
+</p>
 
+#### Company-Distributors
+<img src="/screenshots/distributor-list.png" width="800" />
 
-<img src="/screenshots/distributor-list.png" width="400" />
-<img src="/screenshots/article-list.png" width="400"  /> 
+#### Distributors-Inventory
+<img src="/screenshots/article-list.png" width="800"  /> 
 
 
 
