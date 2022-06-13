@@ -1,4 +1,4 @@
-# UserManagementSystem
+# FranchiseManagementSystem
 This is a simple project that helps owners of a franchise to be able to monitor their business in different locations. 
 The Project was developed using JSP, Servlet, CSS.
 Database used for data storage is MySQL.
